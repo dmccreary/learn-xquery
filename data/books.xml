@@ -122,7 +122,8 @@
         <format>pdf</format>
         <license>commercial</license>
         <publisher>Manning Publications</publisher>
-        <list-price>0</list-price>
+        <list-price type="print+ebook">29.99</list-price>
+        <list-price type="ebook">23.99</list-price>
         <url>http://manning.com/mccreary</url>
     </book>
 </books>
