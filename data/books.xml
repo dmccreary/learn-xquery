@@ -120,10 +120,22 @@
         <author>Dan McCreary</author>
         <description>Overview of NoSQL for managers and architects.</description>
         <format>pdf</format>
+        <format>ePub</format>
         <license>commercial</license>
         <publisher>Manning Publications</publisher>
         <list-price type="print+ebook">29.99</list-price>
         <list-price type="ebook">23.99</list-price>
         <url>http://manning.com/mccreary</url>
+    </book>
+    <book>
+        <id>10</id>
+        <title>eXist</title>
+        <author>Adam Retter</author>
+        <author>Erik Siegel</author>
+        <description>Overview of the eXist native XML database.</description>
+        <format>pdf</format>
+        <license>commercial</license>
+        <publisher>O'Reilly Media Inc</publisher>
+        <url></url>
     </book>
 </books>
