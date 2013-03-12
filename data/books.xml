@@ -24,6 +24,8 @@
         <title>XQuery Wikibook</title>
         <author>Chris Wallace</author>
         <author>Dan McCreary</author>
+        <author>Joe Wicentowski</author>
+        <author>Jens Østergaard Petersen</author>
         <description>
             This book provides a variety of XQuery example programs and is designed to work with the eXist open-source native XML application server.
         </description>
@@ -96,6 +98,7 @@
             This book contains a collection of named integration patters.
         </description>
         <format>hardcover</format>
+        <publisher>Addison-Wesley</publisher>
         <license>commercial</license>
         <list-price>49.95</list-price>
     </book>
