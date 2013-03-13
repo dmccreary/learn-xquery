@@ -100,7 +100,8 @@
         <format>hardcover</format>
         <publisher>Addison-Wesley</publisher>
         <license>commercial</license>
-        <list-price>49.95</list-price>
+        <list-price>$50.09</list-price>
+        <url>http://www.eaipatterns.com/</url>
     </book>
     <book>
         <id>8</id>
