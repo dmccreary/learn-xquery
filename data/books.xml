@@ -139,4 +139,13 @@
         <publisher>O'Reilly Media Inc</publisher>
         <url></url>
     </book>
+    <book>
+        <id>11</id>
+        <title>Apache Ant</title>
+        <author>Dan McCreary</author>
+        <description>Using Apache Ant with NoSQL databases</description>
+        <format>wikibook</format>
+        <license>Creative Commons Sharealike 3.0 Attribution-Non-commercial</license>
+        <url>http://en.wikibooks.org/wiki/Apache_Ant</url>
+    </book>
 </books>
